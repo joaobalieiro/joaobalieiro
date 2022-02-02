@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaobalieiro
 - 👀 I’m interested in physics, programming
-- 🌱 I’m currently learning python, java
+- 🌱 I’m currently learning python, javascript, css and HTML 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joaobalieiro@usp.br
 
