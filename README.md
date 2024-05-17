@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @joaobalieiro
-- 👀 I’m interested in physics, programming
-- 🌱 I’m currently learning python, javascript, css and HTML 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Joao
+- 👀 I’m interested in physics, programming, math
+- 🌱 I’m currently learning python, c 
 - 📫 How to reach me joaobalieiro@usp.br
 
 <!---
