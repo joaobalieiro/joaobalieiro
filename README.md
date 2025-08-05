@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Joao
 - 👀 I’m interested in physics, programming, math
-- 🌱 I’m currently learning python, c 
 - 📫 How to reach me joaobalieiro@usp.br
 
 <!---
