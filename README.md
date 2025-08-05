@@ -6,4 +6,5 @@ Tenho interesse em aplicações computacionais da matemática, especialmente em 
 
 Antes de me transferir para o ICMC, cursei **Física Computacional** no IFSC-USP, o que reforçou minha base em **métodos numéricos** e **simulações físicas**.
 
+
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobalieiro&layout=compact&theme=dracula)
