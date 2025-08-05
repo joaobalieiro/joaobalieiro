@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Joao
-- 👀 I’m interested in physics, programming, math
-- 📫 How to reach me joaobalieiro@usp.br
+## Sobre mim
 
-<!---
-joaobalieiro/joaobalieiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! Me chamo **João Pedro Pereira Balieiro** e sou graduando em **Matemática Aplicada e Computação Científica** no [ICMC-USP](https://www.icmc.usp.br/).
+
+Tenho interesse em aplicações computacionais da matemática, especialmente em áreas como **análise de dados**, **modelagem matemática** e **desenvolvimento de soluções científicas** com **C** e **Python**.
+
+Antes de me transferir para o ICMC, cursei **Física Computacional** no IFSC-USP, o que reforçou minha base em **métodos numéricos** e **simulações físicas**.
+
